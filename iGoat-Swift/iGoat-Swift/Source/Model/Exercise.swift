@@ -43,7 +43,7 @@ struct Exercise {
  </head>
  <body>
  <h1>\(name ?? "")</h1>
- <h2>Getting Started</h2>
+ <h2>Getting Startedd</h2>
  <p>\(desc ?? "")</p>
  </body>
  </html>
